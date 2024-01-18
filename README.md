@@ -1,5 +1,7 @@
 # Odin Project: Landing Page
 
+This is my solution to [the Odin Project's](https://www.theodinproject.com/lessons/foundations-landing-page) foundations project: landing page for learning HTML and CSS. It is a basic landing page layout design.
+
 ## Acknowledgements
 
 Images used in this project:
